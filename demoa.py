@@ -24,3 +24,23 @@ if __name__ == '__main__':
     unittest.main()                            #执行main函数
 
 #运行结果：.代表成功，F代表失败
+
+
+
+
+
+# import unittest
+#
+# def add(x,y):
+#     z = x + y
+#     return z
+#
+# class TestDemo(unittest.TestCase):
+#     def test_a(self):
+#         self.assertEqual(7,add(3,4))
+#
+#     def test_b(self):
+#         self.assertEqual(8,add(4,4))
+#
+# if __name__ == '__main__':
+#     unittest.main()
