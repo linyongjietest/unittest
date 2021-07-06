@@ -1,0 +1,8 @@
+1.demoa.py      简单使用unittest.TestCase编写测试用例，并使用assertEqual断言
+2.test_demob.py     testcase 的初始化和清除 方法
+3.test_practise.py      实例化套件TestSuite并添加测试用例，实例TestRunner执行器执行用例
+4.gen_test_report.py    使用TestLoader添加类中所有测试用例，通过实例TestRunner执行器执行用例
+5.test_practise2.py     通过参数装饰器@parameterized.expand的方式来传递数据
+6.test_practise3.py     跳过测试用例
+7.gen_test_report.py    生成HTML测试报告
+8.log.py                日志使用方法
