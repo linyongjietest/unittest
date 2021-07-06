@@ -6,3 +6,4 @@
 6.test_practise3.py     跳过测试用例
 7.gen_test_report.py    生成HTML测试报告
 8.log.py                日志使用方法
+sdsdasd
